@@ -36,7 +36,7 @@
           class="text-[#BCBCBC] text-xl"
         />
       </div>
-      <p class="mt-6">&copy; 2024 Reminder, Inc. All rights reserved.</p>
+      <p class="mt-6">&copy; 2024 Trackly, Inc. All rights reserved.</p>
     </div>
   </footer>
 </template>
